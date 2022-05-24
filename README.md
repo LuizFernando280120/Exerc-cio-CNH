@@ -1,5 +1,7 @@
 # Exercicio-CNH
 
+# ALGORÍTIMO DO EXERCÍCIO
+
 # Repositório do exercício com destino para o professor Daniel Ohata 🥇
 
 Início
